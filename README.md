@@ -40,4 +40,3 @@ Netflix wants to identify which genres and content formats (Movies vs TV Shows) 
 
 8. Screenshots/Demos
 Show what the dashboard looks like- ![Alt text](https://github.com/DurbaBose/Netflix-dash/blob/main/Netflix_dashboard.png)
-Example: ![Dashboard Preview](https://github.com/DurbaBose/Netflix-dash/blob/main/Netflix_dashboard.png)
