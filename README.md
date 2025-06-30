@@ -38,5 +38,4 @@ Netflix wants to identify which genres and content formats (Movies vs TV Shows) 
 * What genre dominates content production in recent years?
 * Which title or genre saw the longest average runtime?
 
-8. Screenshots/Demos
-Show what the dashboard looks like- ![Alt text](https://github.com/DurbaBose/Netflix-dash/blob/main/Netflix_dashboard.png)
+8. What the dashboard looks like- ![Alt text](https://github.com/DurbaBose/Netflix-dash/blob/main/Netflix_dashboard.png)
